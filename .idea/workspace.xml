@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f757e87-cbf1-4384-ab36-c2ae671b6d25" name="Changes" comment="">
+    <list default="true" id="2f757e87-cbf1-4384-ab36-c2ae671b6d25" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/abc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uc3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uc4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uc5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uc6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloWorld.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +37,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/bittu/Assignment1/src"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="helloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloWorld" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bittu\Assignment1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.leap">
+    <configuration name="leap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leap" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uc3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uc3" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uc4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uc4" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uc5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uc5" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uc6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uc6" />
       <module name="Assignment1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -47,7 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.helloWorld" />
+        <item itemvalue="Application.leap" />
+        <item itemvalue="Application.uc6" />
+        <item itemvalue="Application.uc5" />
+        <item itemvalue="Application.uc4" />
+        <item itemvalue="Application.uc3" />
       </list>
     </recent_temporary>
   </component>
@@ -60,6 +104,47 @@
       <option name="presentableId" value="Default" />
       <updated>1678869900665</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1679049029839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679049029839</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1679049090395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679049090395</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1679049301521</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679049301521</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/uc3.java</url>
+          <line>2</line>
+          <properties class="uc3" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
